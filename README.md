@@ -63,7 +63,7 @@ void main() {
 | # | Desafio | Link HackerRank | Código |
 |---|---|:---:|:---:|
 | 00 | 30 Days of Code — Day 0: Hello, World. | [🔗 HackerRank](https://www.hackerrank.com/challenges/30-hello-world/problem) | [📄 Day0HelloWorld.java](https://github.com/devvitorfariasm/HackerRankJava25/blob/main/src/Day0HelloWorld.java) |
-
+| 01 | 30 Days of Code — Day 0: Hello, World. | [🔗 HackerRank](https://www.hackerrank.com/challenges/30-operators) | [📄 Day0HelloWorld.java](https://github.com/devvitorfariasm/HackerRankJava25/blob/main/src/Day2Operators.java) |
 > 📌 A tabela será atualizada conforme novos desafios forem resolvidos e adicionados manualmente.
 
 ---
@@ -91,17 +91,6 @@ java -version
 
 - **Linguagem:** Java 25 (LTS)
 - **Plataforma:** HackerRank
-
----
-
-## 📈 Progresso
-
-- [x] Day 0 — Hello, World.
-- [ ] Day 1 — Data Types
-- [ ] Day 2 — Operators
-- [ ] *(em andamento...)*
-
----
 
 ## 👤 Autor
 
