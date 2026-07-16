@@ -36,6 +36,12 @@
  *    insert(), e no final chama display() para imprimir o resultado.
  */
 
+
+/*
+ * Autor: Vitor De Farias Metzner
+ */
+
+
 class Node {
     int data;
     Node next;

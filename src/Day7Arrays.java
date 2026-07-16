@@ -28,6 +28,11 @@
  *    seguido de um espaço.
  */
 
+/*
+ * Autor: Vitor De Farias Metzner
+ */
+
+
 void main() {
     try (Scanner in = new Scanner(System.in)) {
         int n = in.nextInt();

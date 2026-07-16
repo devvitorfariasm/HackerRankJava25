@@ -27,6 +27,12 @@
  *      exercícios que já usam IO.println.
  */
 
+
+/*
+ * Autor: Vitor De Farias Metzner
+ */
+
+
 void main() {
     try (Scanner in = new Scanner(System.in)) {
         int n = in.nextInt();

@@ -54,6 +54,11 @@
  * 3. Ordena a lista de nomes e imprime um por linha.
  */
 
+
+/*
+ * Autor: Vitor De Farias Metzner
+ */
+
 void main() {
     try (Scanner in = new Scanner(System.in)) {
         int n = in.nextInt();

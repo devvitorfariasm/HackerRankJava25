@@ -38,6 +38,12 @@
  *    "nome=telefone" se encontrado, ou "Not found" caso contrário.
  */
 
+
+/*
+ * Autor: Vitor De Farias Metzner
+ */
+
+
 void main() {
     try (Scanner in = new Scanner(System.in)) {
         HashMap<String, Integer> hmap = new HashMap<>();

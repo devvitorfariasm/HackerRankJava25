@@ -43,6 +43,12 @@
  *      equivalente ao printf.
  */
 
+
+/*
+ * Autor: Vitor De Farias Metzner
+ */
+
+
 void main() {
     try (Scanner sc = new Scanner(System.in)) {
         int noOfTest = sc.nextInt();

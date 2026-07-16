@@ -4,6 +4,10 @@
  * 2. Método Main de Instância: O método não precisa mais ser "public static" e nem receber "String[] args".
  */
 
+/*
+ * Autor: Vitor De Farias Metzner
+ */
+
 void main() {
     System.out.println("Hello, World.");
     System.out.println("Hello, Java.");

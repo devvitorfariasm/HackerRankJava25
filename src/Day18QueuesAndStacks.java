@@ -41,6 +41,11 @@
  *    por vez, comparando: se todos forem iguais, a palavra é palíndromo.
  */
 
+/*
+ * Autor: Vitor De Farias Metzner
+ */
+
+
 class QueueAndStack {
     private ArrayDeque<Character> stack = new ArrayDeque<>();
     private Queue<Character> queue = new LinkedList<>();

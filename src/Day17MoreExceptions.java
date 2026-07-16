@@ -42,6 +42,11 @@
  * imprime a mensagem da exceção. Caso contrário, imprime o resultado.
  */
 
+
+/*
+ * Autor: Vitor De Farias Metzner
+ */
+
 class Calculator {
     int power(int n, int p) throws Exception {
         if (p < 0 || n < 0) {

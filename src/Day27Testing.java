@@ -58,6 +58,11 @@
  * main() imprime os 5 casos de teste fixos esperados pelo HackerRank.
  */
 
+
+/*
+ * Autor: Vitor De Farias Metzner
+ */
+
 void main() {
     IO.println(5);
     IO.println("4 3");

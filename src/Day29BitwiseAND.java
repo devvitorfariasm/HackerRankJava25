@@ -51,6 +51,11 @@
  * 3. Imprime k-1 se a condição for satisfeita, senão k-2.
  */
 
+
+/*
+ * Autor: Vitor De Farias Metzner
+ */
+
 void main() {
     try (Scanner in = new Scanner(System.in)) {
         int t = in.nextInt();

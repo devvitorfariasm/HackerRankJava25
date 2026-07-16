@@ -40,6 +40,13 @@
  *    logo depois do nextDouble(), que é o ponto correto onde sobra o '\n'
  *    no buffer antes de ler a String com scan.nextLine().
  */
+
+
+/*
+ * Autor: Vitor De Farias Metzner
+ */
+
+
 void main() {
     // Variáveis já fornecidas e inicializadas pelo desafio
     int i = 4;

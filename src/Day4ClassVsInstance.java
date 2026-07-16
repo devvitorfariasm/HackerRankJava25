@@ -39,6 +39,12 @@
  *    - Agora: IO.println(...) — API utilitária do JEP 512.
  */
 
+
+/*
+ * Autor: Vitor De Farias Metzner
+ */
+
+
 // Classe auxiliar no mesmo compact source file — sem "public", sem "static"
 class Person {
     private int age;

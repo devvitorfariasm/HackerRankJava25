@@ -46,6 +46,10 @@
  *    interface implementada e o resultado da soma.
  */
 
+/*
+ * Autor: Vitor De Farias Metzner
+ */
+
 interface AdvancedArithmetic {
     int divisorSum(int n);
 }

@@ -32,6 +32,11 @@
  *    imprime "Prime" ou "Not prime".
  */
 
+
+/*
+ * Autor: Vitor De Farias Metzner
+ */
+
 boolean isPrime(int n) {
     return n >= 2 && IntStream.rangeClosed(2, (int) Math.sqrt(n))
             .noneMatch(i -> n % i == 0);

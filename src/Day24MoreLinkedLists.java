@@ -36,6 +36,11 @@
  *    o resultado.
  */
 
+
+/*
+ * Autor: Vitor De Farias Metzner
+ */
+
 class Node {
     int data;
     Node next;

@@ -43,6 +43,12 @@
  *    - Agora: IO.println(...) — API utilitária do JEP 512.
  */
 
+
+/*
+ * Autor: Vitor De Farias Metzner
+ */
+
+
 void main() {
     try (Scanner scan = new Scanner(System.in)) {
         int n = scan.nextInt();

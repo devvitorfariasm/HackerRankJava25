@@ -54,6 +54,11 @@
  *    com o cálculo certo.
  */
 
+
+/*
+ * Autor: Vitor De Farias Metzner
+ */
+
 void main() {
     // try-with-resources: Garante o fechamento automático do Scanner
     try (Scanner scan = new Scanner(System.in)) {

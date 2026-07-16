@@ -44,6 +44,11 @@
  *    desafio, não algo relacionado a mudanças de versão do Java.
  */
 
+
+/*
+ * Autor: Vitor De Farias Metzner
+ */
+
 class Printer<T> {
     void printArray(T[] inputArray) {
         for (T t : inputArray) {

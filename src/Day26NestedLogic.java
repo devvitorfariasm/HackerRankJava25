@@ -37,6 +37,12 @@
  * 5. Caso contrário (entregue no prazo ou antes): multa = 0.
  */
 
+
+/*
+ * Autor: Vitor De Farias Metzner
+ */
+
+
 void main() {
     try (Scanner sc = new Scanner(System.in)) {
         int[] actual = parseDate(sc.nextLine());

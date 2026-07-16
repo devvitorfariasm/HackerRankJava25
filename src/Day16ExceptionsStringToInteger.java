@@ -34,6 +34,12 @@
  *    (ou seja, S não é um número válido), imprime "Bad String".
  */
 
+
+
+/*
+ * Autor: Vitor De Farias Metzner
+ */
+
 void main() {
     try (Scanner in = new Scanner(System.in)) {
         String s = in.next();

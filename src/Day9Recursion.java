@@ -41,6 +41,11 @@
  * 3. Imprime o resultado.
  */
 
+
+/*
+ * Autor: Vitor De Farias Metzner
+ */
+
 public static int factorial(int i) {
     if (i == 1 || i == 0) {
         return 1;

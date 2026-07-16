@@ -38,6 +38,12 @@
  * max=5, min=1, diferença = |5-1| = 4 -> bate com a Sample Output "4".
  */
 
+
+/*
+ * Autor: Vitor De Farias Metzner
+ */
+
+
 class Difference {
     private int[] elements;
     public int maximumDifference;

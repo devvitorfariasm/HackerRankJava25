@@ -41,6 +41,11 @@
  *    display().
  */
 
+
+/*
+ * Autor: Vitor De Farias Metzner
+ */
+
 abstract class Book {
     protected String title;
     protected String author;

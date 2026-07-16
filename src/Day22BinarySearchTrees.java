@@ -39,6 +39,11 @@
  *    a altura final.
  */
 
+
+/*
+ * Autor: Vitor De Farias Metzner
+ */
+
 class Node {
     Node left, right;
     int data;

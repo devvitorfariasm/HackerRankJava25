@@ -18,6 +18,11 @@
  * - .max(...) substitui o "if (sum > maxSum)" manual.
  */
 
+
+/*
+ * Autor: Vitor De Farias Metzner
+ */
+
 void main() {
     try (Scanner in = new Scanner(System.in)) {
         int[][] arr = new int[6][6];
