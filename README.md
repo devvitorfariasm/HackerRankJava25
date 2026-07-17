@@ -7,7 +7,6 @@
 [![Java](https://img.shields.io/badge/Java-25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/projects/jdk/25/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Challenges-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](#-licença)
-[![Status](https://img.shields.io/badge/Status-Em%20andamento-yellow?style=for-the-badge)](#-progresso)
 
 </div>
 
